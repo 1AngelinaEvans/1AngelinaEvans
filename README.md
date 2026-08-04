@@ -15,10 +15,10 @@ MS in Informatics (Geoinformatics) and BA in Geography, University of Iowa. Most
 
 ## Tools
 
-**GIS:** ArcGIS Pro, QGIS, spatial analysis, geocoding
-**Python:** GeoPandas, pandas, NumPy, OSMnx, NetworkX
-**Routing:** OpenRouteService, OSRM
-**Other:** R, SQL, Tableau, Git
+- **GIS:** ArcGIS Pro, QGIS, spatial analysis, geocoding
+- **Python:** GeoPandas, pandas, NumPy, OSMnx, NetworkX
+- **Routing:** OpenRouteService, OSRM
+- **Other:** R, SQL, Tableau, Git
 
 ## Background
 
