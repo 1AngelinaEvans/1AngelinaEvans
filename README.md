@@ -26,7 +26,7 @@ MS in Informatics (Geoinformatics) and BA in Geography with minors in Computer S
 
 | | |
 | --- | --- |
-| GFZ Helmholtz Centre for Geosciences, Potsdam | Fulbright research award, flood disruption to healthcare access |
+| GFZ German Research Centre for Geosciences, Potsdam | Fulbright research award, flood disruption to healthcare access |
 | University of Iowa College of Nursing | Graduate research assistant, Python data pipelines and geospatial support |
 | Iowa State University | Data Science for the Public Good intern, housing condition analysis and Tableau mapping |
 | Oak Ridge National Laboratory | Undergraduate laboratory intern, rural healthcare accessibility in R |
