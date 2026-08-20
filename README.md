@@ -2,7 +2,7 @@
 
 Spatial analyst working in cartography, geospatial data handling, and network accessibility. My work has focused on accessibility and public health: who can reach the services they need, and what happens to that access when a hazard disrupts the network.
 
-MS in Informatics (Geoinformatics) and BA in Geography with minors in Computer Science and Environmental Policy and Planning, University of Iowa. Most recently a Fulbright US Student Program research award recipient at the GFZ Helmholtz Centre for Geosciences in Potsdam, Germany, modeling flood disruption to road networks and its effect on travel time to healthcare facilities.
+MS in Informatics (Geoinformatics) and BA in Geography with minors in Computer Science and Environmental Policy and Planning, University of Iowa. Most recently a Fulbright US Student Program research award recipient at the GFZ German Research Centre for Geosciences in Potsdam, Germany, modeling flood disruption to road networks and its effect on travel time to healthcare facilities.
 
 **Based in Iowa, open to relocation. Currently looking for GIS Analyst and GIS Specialist roles.**
 
